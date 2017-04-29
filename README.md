@@ -31,7 +31,7 @@ http://wiki.x2go.org/doku.php/doc:installation:x2goclient
 Create a new session and connect to your seerver
 Host : (Your Server IP) Port : 2222 Username : root Password : (get it from the Docker logs above)
 
-Select the Session TYPE as : Mate 
+Select the Session TYPE as : xfce 
 
 You can also SSH to the docker container directly with root or dockerx users and their passwords over the port 2222 with linux ssh or windows putty client.
 
