@@ -20,7 +20,7 @@ build it yourself.
 git clone https://github.com/gbraes/ubuntu-xfce.git .
 cd ubuntu-xfce
 ./build
-docker_selenium.sh PUT_YOUR_PASSWORD_HERE
+./docker_selenium.sh PUT_YOUR_PASSWORD_HERE
 ```
 
 ### How to run/connect to server with a Client?
